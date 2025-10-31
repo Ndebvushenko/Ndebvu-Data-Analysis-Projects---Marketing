@@ -1,2 +1,2 @@
-# Personal-Projects
-Personal Projects
+# Data analysis projects
+DA Projects
